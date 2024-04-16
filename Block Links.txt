@@ -1,0 +1,11 @@
+COPY AND PASE THESE INTO THE REGEXES SECTION TO BLOCK LINKS
+
+https?://
+
+www.
+
+THEN CLICK SAVE IN THE AUTOMOD.
+
+please check out my discord :)
+
+https://discord.gg/zf3TRUNNek
